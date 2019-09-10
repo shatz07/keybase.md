@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am shatz07 on github.
+  * I am shatz (https://keybase.io/shatz) on keybase.
+  * I have a public key ASDNZktZUlOifEOun9N5zT_-NdtYRdE4cgbVOW9e88s1Bwo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120cd664b595253a27c43ae9fd379cd3ffe35db5845d1387206d5396f5ef3cb35070a",
+      "host": "keybase.io",
+      "kid": "0120cd664b595253a27c43ae9fd379cd3ffe35db5845d1387206d5396f5ef3cb35070a",
+      "uid": "94dd36f48174ad21f15fd28c92024919",
+      "username": "shatz"
+    },
+    "merkle_root": {
+      "ctime": 1568113827,
+      "hash": "8723cc52a2e2df765f3a78c6cf4483a12f6f42dcecbcbc72a5b1884c39d607ececee90c8a4cddd73acca73af6d9864df8233e11459c7b6f151893fbdc56a2848",
+      "hash_meta": "cffe4481fc450c200e3b5d7eabcf613a2b0c4c9a1f6480249e457daeddcfbf8f",
+      "seqno": 6384003
+    },
+    "service": {
+      "entropy": "H7Hfv2wGiEJRotjimcHJCxqv",
+      "name": "github",
+      "username": "shatz07"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568113830,
+  "expire_in": 504576000,
+  "prev": "059fb03231d37a755b26f82e56b89145c0d35ba85084f3ab811ca2147b9611a4",
+  "seqno": 9,
+  "tag": "signature"
+}
+```
+
+with the key [ASDNZktZUlOifEOun9N5zT_-NdtYRdE4cgbVOW9e88s1Bwo](https://keybase.io/shatz), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgzWZLWVJTonxDrp/Tec0//jXbWEXROHIG1TlvXvPLNQcKp3BheWxvYWTESpcCCcQgBZ+wMjHTenVbJvguVriRRcDTW6hQhPOrgRyiFHuWEaTEILRmE1RnkrCdDszRax452ATczyli4yCdYzJVmHkAeonQAgHCo3NpZ8RAajiKwAjhljZUZXDQhMy5pfzohjM2tjMP6isiCv8bMIP5gPlV7pba8mK2nB3qslFmBn1oig5AzJQ4XTRdhYvOCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFEhKMWUAvyl7aUrIEmnhi2LAkhjy8JI4UmtW4uKNuTLo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/shatz
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id shatz
+```
